@@ -1,5 +1,5 @@
 # Point of Sale Software
-Description....
+A very basic POS system for restaraunts. Can be used for other things.
 
 # Requirements
 - Python=3.12.8
